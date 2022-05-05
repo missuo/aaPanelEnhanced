@@ -1,5 +1,4 @@
 # aaPanelRemoveAD
-aaPanelRemoveAD
 
 This script is only required for aaPanel version >= **6.8.24**
 
